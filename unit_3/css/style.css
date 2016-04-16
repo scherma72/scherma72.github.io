@@ -5,5 +5,5 @@ h3 {  text-align: center;
 body {
     background-color: white; 
   	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.jpg");
-  	background-size: cover; }
- img { top: 50px; }
+  	background-size: cover; top: 60px;}
+ 
