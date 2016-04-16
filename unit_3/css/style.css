@@ -4,8 +4,7 @@ h3 {  text-align: center;
 	font-family: helvetica; color: white;}
 body {background-color: white;
 	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png");
-  	background-repeat: max-height: 82%
+  	background-repeat: max-height:  0 auto;
 margin: 0 auto;}
-div { padding-bottom: 10px}
 }
  
