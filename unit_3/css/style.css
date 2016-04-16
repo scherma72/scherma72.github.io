@@ -1,7 +1,9 @@
-h1 {  top: 150px; text-align: center; 
+h1 {  top: 60px; text-align: center; 
 	font-family: helvetica; color: #333029;}
 h3 {  text-align: center; 
 	font-family: helvetica; color: #595448;}
 body {
-    background-color: white; background-image: center;}
- 
+    background-color: white; 
+  	background-image: "image/tp_background_image.jpg";
+  background-size: cover; }
+ img { top: 50px; }
