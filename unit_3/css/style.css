@@ -2,8 +2,7 @@ h1 { padding-top: 100px; text-align: center;
 	font-family: helvetica; color: white;}
 h3 {  text-align: center; 
 	font-family: helvetica; color: white;}
-body 
-{background-color: white;}
-div {  background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png");
+body {background-color: white;
+	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png");
   	background-repeat:no-repeat;}
  
