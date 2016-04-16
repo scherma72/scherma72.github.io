@@ -3,7 +3,8 @@ h1 { padding-top: 100px; text-align: center;
 h3 {  text-align: center; 
 	font-family: helvetica; color: white;}
 body {background-color: white;
-	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png"); max-height: auto;
-margin: auto;}
+	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png"); 
+	background-repeat: no-repeat; max-height: 100%;
+margin: 0 auto;}
 }
  
