@@ -1,18 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
+
 nav{
-	
 	background-color: white;
 	width: 100%;
     display: inline-block;
    
   }
-
-
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1.5em;
-	vertical-align: center;
+	align-items: left;
+	padding-right: 100px;
 	color: #000;
 	text-decoration-color: none;
 	text-decoration: none;
@@ -46,11 +45,10 @@ h2 {
 }
 
 h3{
-	padding-top: 200px;
+	padding-top: 250px;
 	font-family: 'Fugaz One', cursive;
 	font-size: 2em;
 	text-align: center;
-	
 }
 .upload{ 
 	color: white;
