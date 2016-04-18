@@ -9,9 +9,9 @@ nav{
   }
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 1.5em;
+	font-size: 1em;
 	align-items: left;
-	padding-right: 200px;
+	padding-bottom: 50px;
 	color: #000;
 	text-decoration-color: none;
 	text-decoration: none;
@@ -21,9 +21,6 @@ body {
 	background-color: white;
 	background-image: url("http://scherma72.github.io/unit_4/image/tp_background_image.png");
 	background-repeat: auto;
-	text-align: center;
-	font-family: helvetica, sans-serif;
-	font-size: 18px; /*1em = 16px*/
 }
 h1 {
 	padding-top: 50px;
