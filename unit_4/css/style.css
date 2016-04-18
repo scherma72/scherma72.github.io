@@ -2,18 +2,18 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
 nav{
 	margin: 0;
-	
+	background-color: white;
 	width: auto;
     display: inline-block;
-    text-align: left;
-    list-style: none;
    
   }
 
 
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	padding: 100px;
+	padding-bottom: 100px;
+	color: #000;
+	text-decoration-color: none;
 	text-decoration: none;
 	border-bottom: none;
 }
@@ -45,8 +45,8 @@ h2 {
 }
 
 .upload{
-	padding-top: 400px;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	padding-top: 300px;
+	font-family: 'Fugaz One', cursive;
 	font-size: 16px;
 	text-align: center;
 	display: inline-block;
