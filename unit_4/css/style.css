@@ -8,8 +8,8 @@ nav{
     display: inline-block;
    
   }
-#logo{
-	padding-right: 400px;
+.logo{
+	align-items: left;
 }
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
