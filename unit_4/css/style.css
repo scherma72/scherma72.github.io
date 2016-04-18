@@ -9,11 +9,12 @@ nav{
   }
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 1em;
+	font-size: 1.5em;
 	align-items: left;
-	padding-bottom: 50px;
+	padding-bottom: 100px;
+	padding-right: 100
 	color: #000;
-	text-decoration-color: none;
+	text-decoration: color: none;
 	text-decoration: none;
 	border-bottom: none;
 }
@@ -35,7 +36,8 @@ h2 {
 	text-align: center;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 30px;
-	letter-spacing: 2px;
+	font-variant: normal;
+	letter-spacing: 1px;
 	color: white;
 }
 
@@ -46,7 +48,7 @@ h3{
 }
 .upload{ 
 	color: white;
-	text-decoration-color: none;
+	text-decoration: color: none;
 	text-decoration: none;
 	border-bottom: none;
  }
