@@ -8,6 +8,7 @@ nav{
 }
 .logo{ 
 	align: left;
+	padding-right: 300px:;
 }
 
 .navlinks{
@@ -46,12 +47,9 @@ h3{
 	font-family: 'Fugaz One', cursive;
 	font-size: 2em;
 	text-align: center;
-}
-.upload{ 
 	color: white;
-	text-decoration: color: none;
 	text-decoration: none;
 	border-bottom: none;
- }
+}
 
  
