@@ -12,7 +12,7 @@ nav{
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1.5em;
-	text-align: justify-all;
+	vertical-align: center;
 	color: #000;
 	text-decoration-color: none;
 	text-decoration: none;
@@ -46,7 +46,7 @@ h2 {
 }
 
 h3{
-	padding-top: 300px;
+	padding-top: 200px;
 	font-family: 'Fugaz One', cursive;
 	font-size: 2em;
 	text-align: center;
