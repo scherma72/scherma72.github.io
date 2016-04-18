@@ -9,11 +9,12 @@ nav{
 }
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	word-spacing: 100px;
+	padding: 100px;
+	justify-content: auto;
 }
 body {
 	background-color: white;
-	background-image: url("unit_3/image/tp_background_image.png");
+	background-image: url("http://scherma72.github.io/unit_4/image/tp_background_image.jpg");
 	background-repeat: no-repeat;
 	text-align:center;
 	font-family: helvetica, sans-serif;
