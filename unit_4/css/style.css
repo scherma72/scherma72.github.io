@@ -4,11 +4,11 @@
 nav{
 	background-color: white;
 	width: 100%;
-	/*text-align: justify-all; */
+	text-align: justify-all; 
     display: inline-block;
 }
 .logo{ 
-	padding-left: 500px;
+	padding-left: 1000px;
 }
 
 .navlinks{
