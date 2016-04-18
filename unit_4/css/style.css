@@ -4,6 +4,7 @@
 nav{
 	background-color: white;
 	width: 100%;
+	text-align: right;
 	display: inline-block;
 }
 .logo{ 
@@ -13,7 +14,7 @@ nav{
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1.5em;
-	padding-right: 50px;
+	padding-right: 100px;
 	text-align: right;
 	color: #000;
 	text-decoration: none;
