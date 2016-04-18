@@ -2,21 +2,21 @@
 
 nav{
 	margin: top 60px;
-	background-color: #C0B7AA;
+	background-color: white;
 }
+#navlinks{
+	font-family: 'Fugaz One', cursive;
+	word-spacing: 100px;
+	}
+
 body {
 	background-color: white;
 	background-image: url("unit_3/image/tp_background_image.png");
 	background-repeat: no-repeat;
 	font-size: 18px; /*1em = 16px*/
 }
-section{
-
-}
-footer{
-
-}
 h1 {
+	padding-top: 100px;
 	font-family: 'Fugaz One', cursive;
 	font-size: 30px;
 	text-align: center;
