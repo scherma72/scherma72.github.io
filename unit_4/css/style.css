@@ -10,10 +10,8 @@ header{
 body {
 	background-color: white;
 	background-image: url("http://scherma72.github.io/unit_3/image/tp_background_image.png");
-	background-repeat: ;
-	font-size: 16px /*1em=16px */
-	max-height: 100%;
-	margin: 0 auto;}
+	background-repeat: no-repeat;
+	font-size: 16px; /*1em = 16px*/
 }
 section{
 
@@ -22,11 +20,9 @@ footer{
 
 }
 h1 {
-	padding-top: 100px; 
-	text-align: center;
 	font-family: 'Fugaz One', cursive;
 	font-size: 30px;
-	font-style: normal;
+	text-align: center;
 	font-variant: normal;
 	font-weight: 500;
 	color: white;
