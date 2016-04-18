@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
 nav{
-	align-content: top;
+	align-content: center;
 	background-color: white;
 	width: 22000px;
     display: inline-block;
@@ -48,10 +48,12 @@ h2 {
 h3{
 	padding-top: 300px;
 	font-family: 'Fugaz One', cursive;
-	font-size: 16px;
+	font-size: 2em;
 	text-align: center;
-	display: inline-block;
-	background-color: white;
+	color: white;
+	text-decoration-color: none;
+	text-decoration: none;
+	border-bottom: none;
 
 }
 
