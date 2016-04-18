@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Fugaz+One);
+
 nav{
 	margin: top 60px
 	background-color: #C0B7AA;
@@ -22,7 +24,7 @@ footer{
 h1 {
 	padding-top: 100px; 
 	text-align: center;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Fugaz One', cursive;
 	font-size: 30px;
 	font-style: normal;
 	font-variant: normal;
