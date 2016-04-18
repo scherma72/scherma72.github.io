@@ -3,7 +3,7 @@
 nav{
 	align-content: top;
 	background-color: white;
-	width: 200px;
+	width: 22000px;
     display: inline-block;
    
   }
@@ -12,7 +12,7 @@ nav{
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1.5em;
-	text-align: center;
+	text-align: justify-all;
 	color: #000;
 	text-decoration-color: none;
 	text-decoration: none;
