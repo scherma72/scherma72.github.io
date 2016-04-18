@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
 nav{
-	align-content: center;
+	
 	background-color: white;
-	width: 1000px;
+	width: 100%;
     display: inline-block;
    
   }
