@@ -4,6 +4,7 @@
 nav{
 	background-color: white;
 	width: 100%;
+	align-content: right;
 	display: inline-block;
 }
 .logo{ 
@@ -15,10 +16,9 @@ nav{
 	font-size: 1.5em;
 	padding-right: 50px;
 	color: #000;
-	text-decoration: color: none;
 	text-decoration: none;
 	border-bottom: none;
-	align-items: right
+
 }
 body {
 	background-color: white;
