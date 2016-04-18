@@ -1,14 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
 nav{
-	margin: auto;
+	margin: 0;
 	background-color: white;
 }
-.navlinks{
-	font-family: 'Fugaz One', cursive;
-	word-spacing: 100px;
-	}
+.logo{
 
+}
+.navlinks{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	word-spacing: 100px;
+}
 body {
 	background-color: white;
 	background-image: url("unit_3/image/tp_background_image.png");
