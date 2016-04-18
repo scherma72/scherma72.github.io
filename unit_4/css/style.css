@@ -44,12 +44,14 @@ h2 {
 	color: white;
 }
 
-.upload{
+h3{
 	padding-top: 300px;
 	font-family: 'Fugaz One', cursive;
 	font-size: 16px;
 	text-align: center;
 	display: inline-block;
+	background-color: white;
+	
 }
 
  
