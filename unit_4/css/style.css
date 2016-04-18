@@ -10,7 +10,15 @@ nav{
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	padding: 100px;
-	text-align: right;
+	width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc; 
+    margin-left: 0px;  
 }
 body {
 	background-color: white;
