@@ -8,6 +8,9 @@ nav{
     display: inline-block;
    
   }
+#logo{
+	align-items: left;
+}
 .navlinks{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1.5em;
