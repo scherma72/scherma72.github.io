@@ -4,7 +4,7 @@ nav{
 	margin: 0;
 	background-color: white;
 }
-.logo{
+.logo{ align-items: left;
 
 }
 .navlinks{
