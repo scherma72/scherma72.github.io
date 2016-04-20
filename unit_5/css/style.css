@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Fugaz+One);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
+
+nav{
+	background-color: white;
+	width: 100%;
+	text-align: right;
+	display: inline-block;
+}
+.logo{ 
+	padding-right: 700px;
+}
+
+.navlinks{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 1.5em;
+	padding-right: 100px;
+	text-align: right;
+	color: #000;
+	text-decoration: none;
+	border-bottom: none;
+
+}
+body {
+	background-color: white;
+	background-image: url("http://scherma72.github.io/unit_4/image/tp_background_image.png");
+	background-repeat: auto;
+}
+h1 {
+	padding-top: 50px;
+	font-family: 'Fugaz One', cursive;
+	font-size: 40px;
+	text-align: center;
+	font-variant: normal;
+	font-weight: 500;
+	color: white;
+}
+h2 {  
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 30px;
+	font-variant: normal;
+	letter-spacing: 1px;
+	color: white;
+}
+
+h3{
+	font-family: 'Fugaz One', cursive;
+	font-size: 2em;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	border-bottom: none;
+}
+
+ 
