@@ -13,15 +13,15 @@ nav{
 	border-bottom: none;
 }
 .background{
+	align: center;
 	width: auto;
 }
 h1 {
 	padding-top: 50px;
 	font-family: 'Fugaz One', cursive;
-	font-size: 40px;
+	font-size: 1em;
 	text-align: center;
 	font-variant: normal;
-	font-weight: 500;
 	color: white;
 }
 h2 {  
