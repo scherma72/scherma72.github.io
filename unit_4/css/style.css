@@ -12,10 +12,10 @@ nav{
 	text-decoration: none;
 	border-bottom: none;
 }
-.background{
+header{
 	background-image: url(/images/tb_lady.png);
 	background-repeat: no-repeat; 
-	align: center;
+	background-size: cover;
 }
 h1 {
 	padding-top: 50px;
