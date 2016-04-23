@@ -13,9 +13,9 @@ nav{
 	border-bottom: none;
 }
 .background{
-	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
+	background-image: url(https://scherma72.github.io/unit_4/images/tb_lady.png);
+	background-repeat:; 
 	align: center;
-	width: auto;
 }
 h1 {
 	padding-top: 50px;
