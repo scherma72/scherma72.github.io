@@ -16,7 +16,8 @@ header{
 
 }
 .background{
-	height: 100%;
+	background-image: ;
+	background-size: auto;
     background-repeat: no-repeat;
 }
 h1 {
