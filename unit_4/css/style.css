@@ -12,10 +12,10 @@ nav{
 	text-decoration: none;
 	border-bottom: none;
 }
-header{
-	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
-	background-repeat: no-repeat; 
-	background-size: cover;
+.background{
+	height: 37em;
+    background-repeat: no-repeat;
+	
 }
 h1 {
 	padding-top: 50px;
