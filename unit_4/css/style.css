@@ -5,11 +5,9 @@ nav{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1em;
 	text-decoration: none;
-	text-decoration-color: none;
 	text-underline-position: none;
 	background-color: white;
 	color: #000;
-	letter-spacing: .5em;
 }
 #about{
 	padding-right: 2em;
