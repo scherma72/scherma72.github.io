@@ -60,16 +60,16 @@ ul.c {
 }
 ul li a {
 	color: inherit;
-	align: right;
+	float: right;
     text-decoration: none;
     padding: 15px 15px;
 }
 ul li a:hover {
     color: #669999;
 }
-ul li {
+/*ul li {
     height:50px;
-    display:inline-block;
+    display:inline-block;*/
 }
 
 
