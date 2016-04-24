@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 html{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
@@ -9,7 +9,7 @@ html{
 nav{
 	align-content: left;
 	height: 50px;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	background-color: white;
 	color: #000;
@@ -18,15 +18,12 @@ header{
 	height: 400px;
 }
 #about{
-	vertical-align: center;
 	padding-right: 2em;
 }
 #shop{
-	vertical-align: center;
 	padding-right: 2em;
 }
 #celeb{
-	vertical-align: center;
 	padding-right: 2em;
 }
 body{
@@ -42,7 +39,7 @@ h1 {
 }	
 h2 {  
 	text-align: center;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
 	font-variant: normal;
 	letter-spacing: 1px;
