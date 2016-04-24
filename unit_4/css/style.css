@@ -54,6 +54,26 @@ h3{
 footer{
 	background-color: #32B0B0;
 }
+ul.c {
+    height:52px;
+    text-align:center;
+  }
+  ul li a {
+    float:left;
+    text-decoration:none;
+    border: 1px solid Maroon;
+    padding:2px 12px;
+    background:#FFEF8A;
+    line-height:1em;
+    width:100px;
+  }
+  ul li a:hover {
+    background: #CCC;
+  }
+  ul li {
+    height:52px;
+    display:inline-block;
+  }
 
 
  
