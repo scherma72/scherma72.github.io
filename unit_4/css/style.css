@@ -19,7 +19,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     height: 70em;
-    background-position: 0;
+    position: 0;
 }
 h1 {
 	font-family: 'Fugaz One', cursive;
