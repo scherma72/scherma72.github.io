@@ -9,7 +9,7 @@ nav{
 	text-underline-position: none;
 	background-color: white;
 	color: #000;
-	letter-spacing: 1px;
+	letter-spacing: .5em;
 }
 #about{
 	padding-right: 2em;
@@ -32,7 +32,7 @@ header{
 }
 h1 {
 	font-family: 'Fugaz One', cursive;
-	font-size: 4em;
+	font-size: 2em;
 	padding-top: 3em;
 	text-align: center;
 	font-variant: normal;
@@ -43,7 +43,7 @@ h2 {
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1em;
 	font-variant: normal;
-	letter-spacing: 1px;
+	letter-spacing: .5em;
 	color: white;
 }
 
