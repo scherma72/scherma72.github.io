@@ -16,7 +16,8 @@ nav{
 	color: #000;
 }
 a{
-	vertical-align: text-top;
+	color: inherit;
+	text-decoration: none;
 }
 header{
 	height: 400px;
