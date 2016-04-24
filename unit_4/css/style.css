@@ -42,7 +42,6 @@ h2 {
 	font-size: 1.5em;
 	color: white;
 }
-
 h3{
 	text-align: center;
 	font-family: 'Fugaz One', cursive; 
@@ -57,19 +56,19 @@ footer{
 ul.c {
     height:50px;
     text-align:center;
-  }
-  ul li a {
-    float:left;
+}
+ul li a {
+    float: right;
     text-decoration:none;
     padding: 15px 15px;
-  }
-  ul li a:hover {
+}
+ul li a:hover {
     color: #CCC;
-  }
-  ul li {
+}
+ul li {
     height:50px;
     display:inline-block;
-  }
+}
 
 
  
