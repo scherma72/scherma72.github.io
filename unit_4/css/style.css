@@ -26,6 +26,9 @@ nav{
 .menu{
 	text-align: right
 }
+body{
+	margin: 0;
+}
 
 h1 {
 	font-family: 'Fugaz One', cursive;
