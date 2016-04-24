@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
-
 body{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
@@ -21,8 +20,6 @@ a{
 }
 header{
 	height: 400px;
-}
-
 }
 h1 {
 	font-family: 'Fugaz One', cursive;
