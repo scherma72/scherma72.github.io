@@ -9,7 +9,6 @@ nav{
 	background-color: white;
 	color: #000;
 	width: 100%;
-	display: inline-block;
 	border: 0;
 }
 
@@ -18,7 +17,6 @@ header{
     background-repeat: no-repeat;
 }
 h1 {
-	padding-top: 50px;
 	font-family: 'Fugaz One', cursive;
 	font-size: 1.5em;
 	text-align: center;
