@@ -32,8 +32,8 @@ body{
 
 h1 {
 	font-family: 'Fugaz One', cursive;
-	font-size: 3em;
-	padding-top: 2em;
+	font-size: 2.5em;
+	padding-top: 1em;
 	text-align: center;
 	font-variant: normal;
 	color: white;
@@ -41,7 +41,7 @@ h1 {
 h2 {  
 	text-align: center;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-variant: normal;
 	letter-spacing: 1px;
 	color: white;
