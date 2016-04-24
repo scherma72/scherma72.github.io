@@ -61,10 +61,7 @@ ul.c {
   ul li a {
     float:left;
     text-decoration:none;
-    border: 1px solid Maroon;
     padding:2px 12px;
-    background:#FFEF8A;
-    line-height:1em;
     width:100px;
   }
   ul li a:hover {
