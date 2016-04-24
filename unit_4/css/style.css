@@ -55,19 +55,19 @@ footer{
 	background-color: #32B0B0;
 }
 ul.c {
-    height:52px;
+    height:50px;
     text-align:center;
   }
   ul li a {
     float:left;
     text-decoration:none;
-    padding:2px 12px;
+    padding: 15px 15px;
   }
   ul li a:hover {
-    background: #CCC;
+    color: #CCC;
   }
   ul li {
-    height:52px;
+    height:50px;
     display:inline-block;
   }
 
