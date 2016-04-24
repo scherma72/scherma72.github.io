@@ -60,7 +60,6 @@ ul.c {
 }
 ul li a {
 	color: inherit;
-    float: left;
     text-decoration:none;
     padding: 15px 15px;
 }
