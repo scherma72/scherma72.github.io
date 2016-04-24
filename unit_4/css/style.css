@@ -1,6 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
 
+html{
+	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 nav{
 	height: 50px;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -10,9 +15,6 @@ nav{
 }
 header{
 	height: 960px;
-	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
 }
 #about{
 	padding-right: 2em;
