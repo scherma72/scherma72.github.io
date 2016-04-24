@@ -20,16 +20,19 @@ header{
 	align: left;
 }
 #about{
+	display: block;
 	align: right;
 	vertical-align: middle;
 	padding-right: 2em;
 }
 #shop{
+	display: block;
 	align: right;
 	vertical-align: middle;
 	padding-right: 2em;
 }
 #celeb{
+	display: block;
 	align: right;
 	vertical-align: middle;
 	padding-right: 2em;
