@@ -6,7 +6,9 @@ html{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-nav, #about{
+nav{
+	margin: 0;
+	padding: 0;
 	align: right; 
 	height: 50px;
 	font-family: 'Open Sans', sans-serif;
