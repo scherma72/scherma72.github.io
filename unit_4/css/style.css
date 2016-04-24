@@ -22,7 +22,7 @@ nav{
 	text-align: right
 }
 
-header{
+html{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -54,7 +54,7 @@ h3{
 	border-bottom: none;
 }
 #show{
-	padding-bottom: 300px;
+	padding-bottom: 400px;
 }
 
  
