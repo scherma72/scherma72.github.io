@@ -12,7 +12,6 @@ nav{
 }
 .menu{
 	text-align: right
-	letter-spacing: 10px;
 }
 
 header{
@@ -23,6 +22,7 @@ header{
 h1 {
 	font-family: 'Fugaz One', cursive;
 	font-size: 1.5em;
+	padding-top: 3ems;
 	text-align: center;
 	font-variant: normal;
 	color: white;
