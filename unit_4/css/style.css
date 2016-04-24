@@ -27,7 +27,7 @@ nav{
 header{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
    
     padding-bottom: 40em;
 }
