@@ -5,13 +5,14 @@ nav{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1em;
 	text-decoration: none;
-	border-bottom: none;
+	text-decoration-color: none;
 	background-color: white;
 	color: #000;
 	border: 0;
 }
 .menu{
 	text-align: right
+	padding: 10px;
 }
 
 header{
