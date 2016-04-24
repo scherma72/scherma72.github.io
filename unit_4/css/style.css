@@ -6,8 +6,8 @@ html{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-nav{
-	display: block;
+nav, #about{
+	align: right; 
 	height: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
