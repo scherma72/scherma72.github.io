@@ -8,7 +8,6 @@ nav{
 	border-bottom: none;
 	background-color: white;
 	color: #000;
-	width: 100%;
 	border: 0;
 }
 .menu{
@@ -19,7 +18,7 @@ header{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    /*background-size: cover;*/
 }
 h1 {
 	font-family: 'Fugaz One', cursive;
