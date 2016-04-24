@@ -16,6 +16,9 @@ nav{
 	background-color: white;
 	color: #000;
 }
+a{
+	vertical-align: top;
+}
 header{
 	height: 400px;
 }
