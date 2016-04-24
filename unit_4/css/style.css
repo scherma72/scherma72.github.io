@@ -12,11 +12,9 @@ nav{
 	display: inline-block;
 	border: 0;
 }
-header{
 
-}
 .background{
-	background-size: cover;
+	width: auto;
     background-repeat: no-repeat;
 }
 h1 {
