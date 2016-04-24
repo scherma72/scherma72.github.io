@@ -58,6 +58,7 @@ ul.c {
     text-align:center;
 }
 ul li a {
+	color: inherit;
     float: right;
     text-decoration:none;
     padding: 15px 15px;
