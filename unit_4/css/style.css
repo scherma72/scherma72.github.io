@@ -14,7 +14,7 @@ nav{
 }
 
 .background{
-	width: auto;
+	background: cover;
     background-repeat: no-repeat;
 }
 h1 {
