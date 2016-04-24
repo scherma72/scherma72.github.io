@@ -13,8 +13,8 @@ nav{
 	border: 0;
 }
 
-.hero{
-	background: cover;
+header{
+	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
 }
 h1 {
