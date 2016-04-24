@@ -9,6 +9,7 @@ nav{
 	color: #000;
 }
 header{
+	height: 960px;
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
     background-size: 100%;
