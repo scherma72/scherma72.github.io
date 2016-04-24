@@ -7,9 +7,6 @@ html{
     background-size: 100%;
 }
 nav{
-	margin: 0;
-	padding: 0;
-	align: right; 
 	height: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
@@ -17,7 +14,7 @@ nav{
 	color: #000;
 }
 a{
-	vertical-align: top;
+	vertical-align: text-top;
 }
 header{
 	height: 400px;
