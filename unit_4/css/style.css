@@ -16,7 +16,7 @@ header{
 
 }
 .background{
-	background-size: 0 auto;
+	background-size: cover;
     background-repeat: no-repeat;
 }
 h1 {
