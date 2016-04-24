@@ -7,7 +7,6 @@ html{
     background-size: 100%;
 }
 nav{
-	vertical-align: center;
 	align-content: left;
 	height: 50px;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -19,17 +18,16 @@ header{
 	height: 400px;
 }
 #about{
+	vertical-align: center;
 	padding-right: 2em;
 }
 #shop{
+	vertical-align: center;
 	padding-right: 2em;
 }
 #celeb{
+	vertical-align: center;
 	padding-right: 2em;
-}
-.menu{
-	box
-	text-align: right
 }
 body{
 	margin: 0;
