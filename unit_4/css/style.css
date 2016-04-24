@@ -7,7 +7,6 @@ html{
     background-size: 100%;
 }
 nav{
-	align-content: left;
 	height: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
@@ -18,12 +17,15 @@ header{
 	height: 400px;
 }
 #about{
+	align: right;
 	padding-right: 2em;
 }
 #shop{
+	align: right;
 	padding-right: 2em;
 }
 #celeb{
+	align: right;
 	padding-right: 2em;
 }
 body{
