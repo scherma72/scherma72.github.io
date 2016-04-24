@@ -1,12 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+*{
+	margin: 0;
+	padding: 0;
+}
 body{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
     background-size: 100%;
-	margin: 0;
-	padding: 0;
 }
 nav{
 	height: 50px;
@@ -44,6 +46,9 @@ h3{
 	text-align: center;
 	color: white;
 	border-bottom: none;
+}
+footer{
+	background-color: #32B0B0;
 }
 
 
