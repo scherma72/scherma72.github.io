@@ -7,6 +7,7 @@ html{
     background-size: 100%;
 }
 nav{
+	display: block;
 	height: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
@@ -20,7 +21,7 @@ header{
 	align: left;
 }
 #about{
-	display: block;
+	
 	align: right;
 	vertical-align: middle;
 	padding-right: 2em;
