@@ -15,7 +15,8 @@ nav{
 header{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
-    background-image: center;
+    background-position: center;
+    background-size: cover;
 }
 h1 {
 	font-family: 'Fugaz One', cursive;
