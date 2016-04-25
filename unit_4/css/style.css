@@ -28,17 +28,6 @@ nav a{
 	display: table-cell;
     vertical-align: middle;
 }
-.create{
-	display: block;
-	margin-left: 50%;
-	margin-right: 50%;
-	text-decoration:none;
-    border: 3px solid white;
-    padding:2px 12px;
-    background-color: rgba(128, 153, 153, 0.7);
-    line-height:1em;
-    width:200px;
-}
 a:hover{
     color: #669999;
 }
@@ -64,7 +53,18 @@ header a{
 	display: table-cell;
     vertical-align: middle;
 }
-
+.create{
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
+	text-decoration:none;
+    border: 2px solid white;
+/*    padding:2px 12px;*/
+    background-color: rgba(128, 153, 153, 0.7);
+    line-height:1em;
+    width: 200px;
+    height: 50px; 
+}
 h2{  
     font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
