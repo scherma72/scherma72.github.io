@@ -44,23 +44,21 @@ h1 {
 	color: white;
 }
 header p{
-	padding-bottom: 250px;
-}	
-h2{  
-    /*border: 3px solid white;
-    background-color: rgba(102, 153, 153, 0.3);
-    width: 200px;
-    height: 50px;
-    text-decoration: none;
-    text-align: center;
-    display: table-cell;
-    vertical-align: middle;*/
+	padding-bottom: 300px;
+}
+header a{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	color: white;
 }
+	
+h2{  
+    font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	color: white;
+}
 h3{
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
 	text-align: center;
 	color: white;
@@ -71,29 +69,10 @@ p{
 	font-size: 1em;
 	text-align: center;
 	color: white;
-	/*border-bottom: none;*/
 }
 footer{
 	background-color: #669999;
 }
-#create{
-	border: 3px solid white;
-    background-color: rgba(102, 153, 153, 0.3);
-    width: 200px;
-    height: 50px;
-    text-decoration: none;
-    text-align: center;
-    display: table-cell;
-    vertical-align: center;
-	display: block;
-	margin-left: auto;
-    margin-right: auto;
-}
-#show{
-	padding-top: 50px;
-	display: block;
-	margin-left: auto;
-    margin-right: auto;
-}
+
 
  
