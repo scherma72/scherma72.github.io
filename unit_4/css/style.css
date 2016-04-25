@@ -62,8 +62,7 @@ a:hover {
 a{
     display:block;
     float:right;
-    text-align: right;
-}
+   /* text-align: right;*/
 }
 
 
