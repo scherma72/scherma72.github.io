@@ -47,7 +47,9 @@ header p{
 	padding-bottom: 300px;
 }	
 h2{  
-	border: 3px solid white;
+	margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
     background-color: rgba(102, 153, 153, 0.3);
     width: 200px;
     height: 50px;
@@ -60,7 +62,6 @@ h2{
 	color: white;
 }
 h3{
-	text-align: center;
 	font-family: 'Pacifico', cursive; 
 	font-size: 1.5em;
 	text-align: center;
