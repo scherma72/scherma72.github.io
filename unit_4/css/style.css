@@ -46,15 +46,11 @@ h1 {
 header p{
 	padding-bottom: 300px;
 }
-header a{
-	
+.create{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-	color: white;
-}
-.create{
-	display: block;
-	margin-left: 50%;
+	color: white;display: block;
+	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
 	text-decoration:none;
@@ -64,14 +60,16 @@ header a{
     height: 50px; 
 }
 .show{
-	padding-top: 100px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	color: white;padding-top: 100px;
 	display: block;
-	margin-left: 50%;
+	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
 	text-decoration:none;
     border: 2px solid white;
-    background-color: rgba(153, 102, 102, 0.7);
+    background-color: rgba(153, 102, 102, 0.5);
     width: 200px;
     height: 50px; 
 }
