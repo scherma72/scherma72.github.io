@@ -59,15 +59,12 @@ a:hover {
 {
     width:140px;
     height:75px;
-    float:left;
+    float:right;
     text-align:center;
 }
 .logo a{
     display:block;
 }
-/*.logo a div{
-    margin-top:10px;
-}*/
 
 
  
