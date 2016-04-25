@@ -54,7 +54,7 @@ header a{
 }
 .create{
 	display: block;
-	margin-left: 50%;
+	margin-left: 30%;
 	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
@@ -66,7 +66,7 @@ header a{
 }
 .show{
 	display: block;
-	margin-left: 50%;
+	margin-left: 30%;
 	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
