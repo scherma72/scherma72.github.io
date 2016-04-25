@@ -13,6 +13,7 @@ body{
 }
 nav{
 	height: 50px;
+	text-decoration: none;
 	color: inherit;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
