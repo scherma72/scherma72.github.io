@@ -59,28 +59,15 @@ a:hover {
 {
     width:140px;
     height:75px;
-    border-right:1px dotted black;
-    border-bottom:1px dotted black;
     float:left;
     text-align:center;
-    font-size:15px;
-    font-weight:bold;
-    color:#c60606;
 }
-
 .logo a{
     display:block;
-    width:140px;
-    height:75px;
-    background-color:#fff;
-    font-size:15px;
-    font-weight:bold;
-    color:#c60606;
 }
-.logo a div
-{
+/*.logo a div{
     margin-top:10px;
-}
+}*/
 
 
  
