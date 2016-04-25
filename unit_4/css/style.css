@@ -47,14 +47,13 @@ header p{
 	padding-bottom: 300px;
 }	
 h2{  
-	margin-left: auto;
-    margin-right: auto;
+	position: auto;
     border: 3px solid white;
     background-color: rgba(102, 153, 153, 0.3);
     width: 200px;
     height: 50px;
     text-decoration: none;
-    text-align:center;
+    text-align: center;
     display: table-cell;
     vertical-align: middle;
 	font-family: 'Open Sans', sans-serif;
