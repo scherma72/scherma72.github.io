@@ -67,9 +67,9 @@ ul li a {
 ul li a:hover {
     color: #669999;
 }
-/*ul li {
+ul li, #logo{
     height:50px;
-    display:inline-block;*/
+    display:inline-block;
 }
 
 
