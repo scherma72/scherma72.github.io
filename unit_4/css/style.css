@@ -11,14 +11,15 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-nav{
+nav a{
 	height: 50px;
+	color: #000;
 	text-decoration: none;
 	color: inherit;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	background-color: white;
-	color: #000;
+	
 }
 header{
 	height: 400px;
