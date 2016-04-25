@@ -44,13 +44,12 @@ h1 {
 	color: white;
 }
 header p{
-	padding-bottom: 300px;
+	padding-bottom: 250px;
 }
 header a{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	color: white;
-
 }
 .create{
 	display: block;
@@ -62,7 +61,7 @@ header a{
     border: 2px solid white;
     background-color: rgba(128, 153, 153, 0.7);
     width: 200px;
-    height: 20px; 
+    height: 50px; 
 }
 h2{  
     font-family: 'Open Sans', sans-serif;
