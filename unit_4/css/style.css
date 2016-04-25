@@ -55,8 +55,7 @@ h1 {
     background-color: rgba(128, 153, 153, 0.7);
     margin: auto;
     width: 20%;
-    height: 20px;
-    padding-bottom: 50px;
+    height: 50px;
 }
 .show{
 	font-family: 'Open Sans', sans-serif;
@@ -70,6 +69,7 @@ h1 {
     background-color: rgba(153, 102, 102, 0.5);
     margin: auto;
     width: 20%;
+    height: 50px;
 }
 h2{  
     font-family: 'Open Sans', sans-serif;
