@@ -82,7 +82,7 @@ footer{
     width: 200px;
     height: 50px;
     text-decoration: none;
-    text-align: center;
+    /*text-align: center;*/
     display: table-cell;
     vertical-align: middle;
 	display: block;
