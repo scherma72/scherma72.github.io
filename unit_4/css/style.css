@@ -55,13 +55,8 @@ footer{
 a:hover {
     color: #669999;
 }
-.logo
-{
-    float:left;
-}
 a{
     display:block;
-    float:right;
    /* text-align: right;*/
 }
 
