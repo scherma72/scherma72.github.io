@@ -72,7 +72,7 @@ p{
 	font-size: 1em;
 	text-align: center;
 	color: white;
-	border-bottom: none;
+	/*border-bottom: none;*/
 }
 footer{
 	background-color: #669999;
@@ -86,7 +86,7 @@ footer{
     text-align: center;
     display: table-cell;
    /* vertical-align: middle;*/
-	display: block;
+	/*display: block;*/
 	margin-left: auto;
     margin-right: auto;
 }
