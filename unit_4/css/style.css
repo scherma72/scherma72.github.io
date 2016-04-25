@@ -53,7 +53,8 @@ header a{
 }
 .create{
 	display: block;
-	position: auto;
+	margin-left: 50%;
+	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
 	text-decoration:none;
@@ -65,7 +66,8 @@ header a{
 .show{
 	padding-top: 20px;
 	display: block;
-	position: auto;
+	margin-left: 50%;
+	margin-right: 50%;
 	text-align: center;
     vertical-align: middle;
 	text-decoration:none;
