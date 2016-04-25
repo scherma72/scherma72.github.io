@@ -13,6 +13,7 @@ body{
 }
 nav{
 	height: 50px;
+	color: inherit;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	background-color: white;
@@ -51,22 +52,34 @@ h3{
 footer{
 	background-color: #669999;
 }
-/*ul.c {
-    height:50px;
-    text-align:center;*/
-}
-ul li a {
-	color: inherit;
-	float: left;
-    text-decoration: none;
-    padding: 15px 15px;
-}
-ul li a:hover {
+a:hover {
     color: #669999;
 }
-ul li, #logo{
-    height:50px;
-    display:inline-block;
+.logo
+{
+    width:140px;
+    height:75px;
+    border-right:1px dotted black;
+    border-bottom:1px dotted black;
+    float:left;
+    text-align:center;
+    font-size:15px;
+    font-weight:bold;
+    color:#c60606;
+}
+
+.logo a{
+    display:block;
+    width:140px;
+    height:75px;
+    background-color:#fff;
+    font-size:15px;
+    font-weight:bold;
+    color:#c60606;
+}
+.logo a div
+{
+    margin-top:10px;
 }
 
 
