@@ -21,9 +21,8 @@ nav a{
 	color: inherit;
 	text-decoration: none;
 	font-size: 1em;
-	display:table-cell;
-    vertical-align:middle;
-	vertical-align: center;
+	display: table-cell;
+    vertical-align: middle;
 }
 a:hover {
     color: #669999;
