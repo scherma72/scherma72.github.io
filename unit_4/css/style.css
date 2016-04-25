@@ -82,5 +82,10 @@ footer{
 	margin-left: auto;
     margin-right: auto;
 }
+#show{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
 
  
