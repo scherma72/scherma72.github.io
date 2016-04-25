@@ -73,6 +73,8 @@ h1 {
 	padding-bottom: 50px;
 }
 section{
+	height: 400px;
+	background-color: #669999 
 	padding-top: 300px;
 	float: left;
 	margin: auto;
