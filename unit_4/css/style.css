@@ -79,6 +79,7 @@ footer{
 }
 #create{
 	display: block;
+	vertical-align: middle;
     margin-left: auto;
     margin-right: auto;
 }
