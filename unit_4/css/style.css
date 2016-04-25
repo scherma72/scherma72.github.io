@@ -32,18 +32,9 @@ ul li {
     float:left;    
 }
 ul li a {
-    text-decoration:none;
-    border: 1px solid Maroon;
-    padding:2px 12px;
-    background:#FFEF8A;
-    width:100px;
-    height:52px;
+	height:52px;
     display:table-cell;
     vertical-align:middle;
-}
-
-ul li a:hover {
-    background: #CCC;
 }
 header{
 	height: 400px;
