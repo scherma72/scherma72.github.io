@@ -28,7 +28,7 @@ nav a{
 	display: table-cell;
     vertical-align: middle;
 }
-a:hover{
+nav a:hover{
     color: #669999;
 }
 header{
@@ -62,7 +62,7 @@ header p{
 .show{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-	color: white;padding-top: 100px;
+	color: white;
 	display: block;
 	margin-right: 50%;
 	text-align: center;
