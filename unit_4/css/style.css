@@ -10,6 +10,7 @@ body{
 	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
     background-repeat: no-repeat;
     background-size: 100%;
+    background-color: #669999; 
 }
 nav{
 	height: 50px;
@@ -74,7 +75,7 @@ h1 {
 }
 section{
 	height: 400px;
-	background-color: #669999; 
+
 	padding-top: 300px;
 	float: left;
 	margin: auto;
