@@ -28,6 +28,14 @@ nav a{
 	display: table-cell;
     vertical-align: middle;
 }
+.create{
+	text-decoration:none;
+    border: 1px solid Maroon;
+    padding:2px 12px;
+    background:#FFEF8A;
+    line-height:1em;
+    width:100px;
+}
 a:hover{
     color: #669999;
 }
@@ -50,8 +58,10 @@ header a{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	color: white;
+	display: table-cell;
+    vertical-align: middle;
 }
-	
+
 h2{  
     font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
