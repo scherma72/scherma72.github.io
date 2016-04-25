@@ -55,13 +55,6 @@ footer{
 a:hover {
     color: #669999;
 }
-.logo
-{
-    width:140px;
-    height:75px;
-    float:right;
-    text-align:center;
-}
 .logo a{
     display:block;
 }
