@@ -32,7 +32,7 @@ nav a{
 	text-decoration:none;
     border: 3px solid white;
     padding:2px 12px;
-    background:#FFEF8A;
+    background-color: rgba(128, 153, 153, 0.7);
     line-height:1em;
     width:200px;
 }
