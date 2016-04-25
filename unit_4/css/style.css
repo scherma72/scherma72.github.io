@@ -29,6 +29,9 @@ nav a{
     vertical-align: middle;
 }
 .create{
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
 	text-decoration:none;
     border: 3px solid white;
     padding:2px 12px;
