@@ -23,15 +23,14 @@ nav{
 }
 a:hover {
     color: #669999;
+}
     ul.c {
     text-align:center;
     display:table;
 }
-
 ul li {   
     float:left;    
 }
-
 ul li a {
     text-decoration:none;
     border: 1px solid Maroon;
