@@ -47,7 +47,7 @@ header p{
 	padding-bottom: 300px;
 }
 header a{
-	padding-bottom: 50px;
+	
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	color: white;
@@ -64,6 +64,7 @@ header a{
     height: 50px; 
 }
 .show{
+	padding-top: 100px;
 	display: block;
 	margin-left: 50%;
 	text-align: center;
