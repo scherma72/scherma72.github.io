@@ -16,6 +16,9 @@ nav{
 	font-family: 'Open Sans', sans-serif;
 	background-color: white;
 }
+nav img{
+	padding-right: 200px;
+}
 nav a{
 	padding-right: 50px;
 	color: #000;
