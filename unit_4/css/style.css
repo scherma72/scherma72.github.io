@@ -55,6 +55,8 @@ h1 {
     background-color: rgba(128, 153, 153, 0.7);
     margin: auto;
     width: 20%;
+    height: 20px;
+    padding-bottom: 50px;
 }
 .show{
 	font-family: 'Open Sans', sans-serif;
