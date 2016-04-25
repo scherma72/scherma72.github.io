@@ -11,7 +11,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-nav a{
+nav{
 	height: 50px;
 	color: #000;
 	text-decoration: none;
