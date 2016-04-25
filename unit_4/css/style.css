@@ -75,10 +75,8 @@ h1 {
 }
 section{
 	height: 400px;
-
-	padding-top: 300px;
-	float: left;
-	margin: auto;
+	padding-top: 100px;
+	float: right;
 }
 h2{  
     font-family: 'Open Sans', sans-serif;
