@@ -50,11 +50,10 @@ header a{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	color: white;
-	display: table-cell;
-    vertical-align: middle;
 }
 .create{
-	display: block;
+	display: table-cell;
+    vertical-align: middle;
 	margin-left: 50%;
 	margin-right: 50%;
 	text-decoration:none;
