@@ -17,7 +17,7 @@ nav{
 	background-color: white;
 }
 nav img{
-	padding-right: 400px;
+	padding-right: 350px;
 }
 nav a{
 	padding-right: 50px;
@@ -35,7 +35,6 @@ header{
 	height: 700px;
 }
 h1 {
-	padding-top: 100px;
 	font-family: 'Pacifico', cursive;
 	font-size: 2.5em;
 	letter-spacing: 2px;
@@ -44,18 +43,22 @@ h1 {
 	color: white;
 }
 header p{
-	padding-bottom: 400px;
+	padding-bottom: 300px;
 }	
 h2{  
-	text-align: center;
+	border: 3px solid white;
+    padding:2px 12px;
+    background: rgba(102 153 153 30);
+    line-height:1em;
+    width:100px;padding-top: 100px;text-align: center;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
 	color: white;
 }
 h3{
 	text-align: center;
-	font-family: 'Open Sans', sans-serif; 
-	font-size: 1em;
+	font-family: 'Pacifico', cursive; 
+	font-size: .5em;
 	text-align: center;
 	color: white;
 	border-bottom: none;
