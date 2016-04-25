@@ -24,7 +24,7 @@ nav a{
 	display: table-cell;
     vertical-align: middle;
 }
-a:hover {
+a:hover{
     color: #669999;
 }
 header{
