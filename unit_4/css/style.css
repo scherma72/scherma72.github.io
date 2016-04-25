@@ -18,23 +18,11 @@ nav{
 	font-size: 1em;
 	background-color: white;
 	color: #000;
-	vertical-align: middle;
-	display:block;
 }
-a:hover {
-    color: #669999;
-}
-    ul.c {
-    text-align:center;
-    display:table;
-}
-ul li {   
-    float:left;    
-}
-ul li a {
-	height:52px;
-    display:table-cell;
-    vertical-align:middle;
+nav a{
+	color: inherit;
+	text-decoration: none;
+	margin-right: 20px;
 }
 header{
 	height: 400px;
@@ -64,7 +52,13 @@ h3{
 footer{
 	background-color: #669999;
 }
-
+a:hover {
+    color: #669999;
+}
+a{
+    display:block;
+   /* text-align: right;*/
+}
 
 
  
