@@ -47,7 +47,8 @@ header p{
 	padding-bottom: 300px;
 }	
 h2{  
-	display:inline-block;
+	align-content: center;
+	display: block;
 	border: 3px solid white;
     background-color: rgba(102, 153, 153, 0.3);
     width: 300px;
