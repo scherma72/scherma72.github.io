@@ -79,8 +79,7 @@ h1 {
 #button1{
 	padding-bottom: 50px;
 }
-aside .info1 .info2 .info3{
-	float: right;
+aside{
 	text-align: center;
 	width: 200px;
 	font-family: 'Open Sans', sans-serif;
