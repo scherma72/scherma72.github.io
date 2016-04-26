@@ -79,7 +79,9 @@ h1 {
 #button1{
 	padding-bottom: 50px;
 }
-aside{
+aside {
+	width: 200px;
+	font-family: 'Open Sans', sans-serif;
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
@@ -91,11 +93,11 @@ section{
 }
 h2{  
     font-family: 'Open Sans', sans-serif;
-	font-size: 1em;
+	font-size: 2em;
 	color: white;
 }
 h3{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Pacifico', cursive;
 	font-size: 1.5em;
 	text-align: center;
 	color: white;
