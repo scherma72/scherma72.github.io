@@ -1,56 +1,115 @@
-@import url(https://fonts.googleapis.com/css?family=Fugaz+One);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #669999; 
+}
 nav{
-	background-color: white;
-	width: 100%;
-	text-align: right;
-	display: inline-block;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+	/*height: 50px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FFED74;*/
 }
-.logo{ 
-	padding-right: 700px;
+nav img{
+	padding-right: 350px;
 }
-
-.navlinks{
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 1.5em;
-	padding-right: 100px;
-	text-align: right;
+nav a{
+	padding-right: 50px;
 	color: #000;
+	color: inherit;
 	text-decoration: none;
-	border-bottom: none;
-
+	font-size: 1em;
+	display: table-cell;
+    vertical-align: middle;
 }
-body {
-	background-color: white;
-	background-image: url("http://scherma72.github.io/unit_4/image/tp_background_image.png");
-	background-repeat: auto;
+nav a:hover{
+    color: #669999;
+}
+header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+	/*background-color: #FFED74
+	height: 550px;*/
 }
 h1 {
-	padding-top: 50px;
-	font-family: 'Fugaz One', cursive;
-	font-size: 40px;
+	padding-top: 100px;
+	font-family: 'Pacifico', cursive;
+	font-size: 2.5em;
+	letter-spacing: 2px;
 	text-align: center;
 	font-variant: normal;
-	font-weight: 500;
 	color: white;
 }
-h2 {  
+.create{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	color: white;
+	display: block;
 	text-align: center;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 30px;
-	font-variant: normal;
-	letter-spacing: 1px;
+    vertical-align: middle;
+	text-decoration:none;
+    border: 2px solid white;
+    background-color: rgba(128, 153, 153, 0.7);
+    margin: auto;
+    width: 20%;
+}
+.show{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	color: white;
+	display: block;
+	text-align: center;
+    vertical-align: middle;
+	text-decoration:none;
+    border: 2px solid white;
+    background-color: rgba(153, 102, 102, 0.5);
+    margin: auto;
+    width: 20%;
+}
+#button1{
+	padding-bottom: 50px;
+}
+aside{
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+section{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+h2{  
+    font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
 	color: white;
 }
-
 h3{
-	font-family: 'Fugaz One', cursive;
-	font-size: 2em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;
 	text-align: center;
 	color: white;
-	text-decoration: none;
-	border-bottom: none;
 }
-
- 
+p{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 1em;
+	text-align: center;
+	color: white;
+}
+footer{
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
