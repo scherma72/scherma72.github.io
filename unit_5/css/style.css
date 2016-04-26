@@ -115,3 +115,6 @@ footer{
     border: 1px black solid;
     padding: 20px;
 }
+footer img{
+	height: 20px;
+}
