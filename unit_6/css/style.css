@@ -57,7 +57,7 @@ header {
     background-size: cover;
     position: relative;
     background-color: #FFED74;
-    height: 37em;
+    height: 38em;
     background-repeat: no-repeat;
 
 
@@ -93,7 +93,7 @@ header a {
 	text-align: center;	
 	display: block;
     border: 2px solid #000;
-    padding: 10px 10px; 
+    padding: 20px 20px; 
     background: #FFED74;
     width: 200px;
     border-radius: 5px;
@@ -103,13 +103,13 @@ header a {
 
 .botton1 {
 
-	margin-top: 400px;
+	margin-top: 200px;
 	
 }
 
 .botton2 {
 
-	margin-top: 200px;
+	margin-top: 25px;
 
 }
 
