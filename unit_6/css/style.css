@@ -51,8 +51,7 @@ nav a:hover {
 header {
 
 	background-image: url(http://scherma72.github.io/unit_6/images/2372x900px-hero.jpg);
-	position: relative;
-    background-position: right;
+ 	background-position: right;
     background-size: cover;
 
 
