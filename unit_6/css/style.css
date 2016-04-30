@@ -1,6 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+body {
+
+	background-color: #FFE2B8;
+
+}
+
 nav {
 	
 	background-color: #E8C66A;
@@ -50,7 +56,7 @@ nav a:hover {
 
 header {
 
-	background-image: url(http://scherma72.github.io/unit_6/images/2372x900px-hero.jpg);
+/*	background-image: url(http://scherma72.github.io/unit_6/images/2372x900px-hero.jpg);*/
  	background-position: left;
     background-size: 100%;
     position: absolute;
@@ -59,28 +65,19 @@ header {
     background-color: #FFED74;
     height: 38em;
     background-repeat: no-repeat;
+    border: 1px black solid;
 
 
-}
-
-h1 {
-
-	padding-top: 70px;
-	font-family: 'Pacifico', cursive;
-	font-size: 3em;
-	letter-spacing: 2px;
-	text-align: center;
-	color: white;
 }
 
 header p {
 
-		padding-top: 25px;
-		text-align: center;
-		font-family: 'Open Sans', sans-serif; 
-		font-size: 1.5em;
-		text-align: center;
-		color: white;
+	padding-top: 25px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 1.5em;
+	text-align: center;
+	color: #000;
 
 }
 
@@ -113,32 +110,171 @@ header a {
 
 }
 
-section{
-	height: 400px;
-	padding-top: 100px;
-	float: right;
-}
-h2{  
-    font-family: 'Open Sans', sans-serif;
-	font-size: 1em;
-	color: white;
-}
-h3{
-	font-family: 'Open Sans', sans-serif;
-	font-size: 1.5em;
+h1 {
+
+	padding-top: 70px;
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+	letter-spacing: 2px;
 	text-align: center;
-	color: white;
+	color: #000;
 }
-p{
+
+h2 {
+
+    font-family: 'Pacifico', cursive;
+	font-size: 1.8em;
+	color: #000;
+	text-align: center;
+}
+
+h3{
+
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;
+	text-align: center;
+	color: #000;
+
+}
+
+h4 {
+
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;	
+	padding-bottom: 10px;
+
+}
+
+h5 {
+	display: block;
+    padding-top: 15px;
+	float: left;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+p {
 	text-align: center;
 	font-family: 'Open Sans', sans-serif; 
 	font-size: 1em;
 	text-align: center;
-	color: white;
+	color: #000;
+
 }
-footer{
-	background-color: #669999;
+
+footer {
+	
+	height: 50px;
+	border: 1px black solid;
+	background-color: #FF957E;
+
 }
+
+.copyright {
+
+	margin-left: 30%;
+
+}
+
+.social {
+
+	padding-top: 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+aside p{
+
+	padding-top: 10px;
+}
+
+article {
+	float: left;
+	display: block;
+	background-color: #E89C6C;
+}
+
+article img{
+
+	padding-left: 20px;
+}
+
+.artist {
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FFC675;
+
+}
+
+.clock {
+
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FFC675;
+
+}
+
+.money {
+
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FFC675;
+
+}
+
+.step1 {
+
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #E89C6C;
+
+}
+.step2 {
+
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #E89C6C;
+
+}
+
+.step3 {
+
+	float: left;
+	display: block;
+	width: 400px;
+	margin: 10px;
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #E89C6C;
+
+}
+
+.upload {
+	margin-left: 20%;
+	padding: 10px;
+}
+
 
 
  
