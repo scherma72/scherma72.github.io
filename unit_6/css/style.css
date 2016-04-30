@@ -1,78 +1,113 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+nav {
+	
+	background-color: #E8C66A;
+	border: 1px black solid;
+/*	background-color: #000;
+*/	height: 50px;
+
 }
-body{
-	background-image: url(http://scherma72.github.io/unit_4/images/tb_lady.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-color: #669999; 
-}
-nav{
-	height: 50px;
+
+nav a {
+
 	font-family: 'Open Sans', sans-serif;
-	background-color: white;
-}
-nav img{
-	padding-right: 350px;
-}
-nav a{
-	padding-right: 50px;
-	color: #000;
 	color: inherit;
+	padding-right: 50px;
 	text-decoration: none;
+	color: #000;
 	font-size: 1em;
-	display: table-cell;
-    vertical-align: middle;
+
 }
-nav a:hover{
+
+.logo {
+
+	margin-left: 20px;
+	float: left;
+
+}
+
+#asct {
+
+	display: block;
+    padding-top: 15px;
+	float: right;
+
+}
+
+#asct .clear {
+
+	clear: both;
+
+}
+	
+nav a:hover {
+
     color: #669999;
+
 }
-header{
-	height: 550px;
+
+header {
+
+	background-image: url(http://scherma72.github.io/unit_6/images/2372x900px-hero.jpg);
+	background-position: right;
+    background-position-x: 90%;
+    background-position-y: 0%;
+    background-size: cover;
+
 }
+
 h1 {
-	padding-top: 100px;
+
+	padding-top: 70px;
 	font-family: 'Pacifico', cursive;
-	font-size: 2.5em;
+	font-size: 3em;
 	letter-spacing: 2px;
 	text-align: center;
-	font-variant: normal;
 	color: white;
 }
-.create{
+
+header p {
+
+		padding-top: 25px;
+		text-align: center;
+		font-family: 'Open Sans', sans-serif; 
+		font-size: 1.5em;
+		text-align: center;
+		color: white;
+
+}
+
+header a {
+
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-	color: white;
-	display: block;
-	text-align: center;
-    vertical-align: middle;
+	color: #000;
 	text-decoration:none;
-    border: 2px solid white;
-    background-color: rgba(128, 153, 153, 0.7);
-    margin: auto;
-    width: 20%;
-}
-.show{
-	font-family: 'Open Sans', sans-serif;
-	font-size: 1em;
-	color: white;
+	text-align: center;	
 	display: block;
-	text-align: center;
-    vertical-align: middle;
-	text-decoration:none;
-    border: 2px solid white;
-    background-color: rgba(153, 102, 102, 0.5);
-    margin: auto;
-    width: 20%;
+    border: 2px solid #000;
+    padding: 10px 10px; 
+    background: #FFED74;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 42%;
+ /*    background-color: rgba(128, 153, 153, 0.7);*/
 }
-#button1{
-	padding-bottom: 50px;
+
+.botton1 {
+
+	margin-top: 400px;
+	
 }
+
+.botton2 {
+
+	margin-top: 200px;
+
+}
+
 section{
 	height: 400px;
 	padding-top: 100px;
