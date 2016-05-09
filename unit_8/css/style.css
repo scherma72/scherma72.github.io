@@ -54,7 +54,6 @@ button {
 	padding: 10px;	
 }
 h1 {
-	padding-top: 70px;
 	font-family: 'Pacifico', cursive;
 	font-size: 6em;
 	line-height: 140%;
@@ -155,7 +154,7 @@ footer a {
 }
 .headerText-wrapper {
 	position: absolute;
-	top: 20px;
+	top: 30px;
 	margin: auto;
 	left: 0;
 	right: 0;
@@ -177,7 +176,7 @@ footer a {
 		margin-left: 38%;
 	}
 	#button1 {	
-		margin-top: 13.5em;
+		margin-top: 17em;
 	}
 	.upload-wrapper {
 		margin: 100px 0% 100px 5%;
@@ -189,4 +188,75 @@ footer a {
 		margin: 20px 2% 20px 7.5%;
 	}	
 }
+@media screen and (max-width: 1260px) {
+	.step1-wrapper, .step2-wrapper, .step3-wrapper {
+		margin: 20px 2% 20px 1.5%;
+	}
+	.artist-wrapper, .clock-wrapper, .money-wrapper {
+		margin: 20px 2% 20px 1.5%;
+	}
+	.upload-wrapper {
+		margin: 100px 0% 100px -4%;
+	}
+}
+@media screen and (max-width: 500px) {
+	nav {
+		height: 80px;
+	}
+	header p {
+		font-size: .9em;
+		padding-top: 15px;
+	}
+	header {
+	    height: 557px;
+	}
+	h1 {
+		font-size: 2.8em;
+	}
+	button {
+		font-size: 1em;	
+		margin-left: 26%;
+		width: 200px;	
+	}
+	h5 {
+	    margin-left: 15px;
+	    padding-top: 17px;
+		color: #FFF;
+		clear: left;
+		text-align: center;
+		font-size: .8em;
+	}
+	nav img{
+		height: 80px;
+	}
+	footer {
+		height: 50px;
+		background-color: #000;
+	}
+	.headerText-wrapper {
+		top: 10px;
+	}
+	#button1 {	
+		margin-top: 15em;
+	}
+	.step1-wrapper, .step2-wrapper, .step3-wrapper {
+		margin: 0px 0px 0px 52px;
+		clear: left;
+	}
+	.artist-wrapper, .clock-wrapper, .money-wrapper {
+		margin: 0px 0px 0px 52px;
+		clear: left;
+		height: 300px;
+	}
+	.info {
+		height: 925px;
+		margin-bottom: 50px;
+	}
+	#fly, #up, #sketch {
+		margin-left: 50px;
+	}
+
+}	
+
+
  
