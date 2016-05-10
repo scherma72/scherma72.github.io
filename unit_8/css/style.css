@@ -205,9 +205,9 @@ footer a {
 		height: 80px;
 	}
 	nav a {
-		clear: right;
-		text-align: center;
-		padding: 3px;
+		display: block;
+		float: left;
+		padding-right: 20px;
 	}
 	header p {
 		display: block;
