@@ -208,7 +208,8 @@ footer a {
 		font-size: .9em;
 		padding-top: 15px;
 		width: 250px;
-		margin-left: 20px;
+		margin-left: 50%;
+		transform:translateX(-50%);
 	}
 	header {
 	    height: 380px;
@@ -218,8 +219,9 @@ footer a {
 	}
 	button {
 		font-size: 1em;	
-		margin-left: 20%;
-		width: 190px;	
+		width: 190px;
+		margin-left: 50%;
+		transform:translateX(-50%);	
 	}
 	h5 {
 	    margin-left: 15px;
@@ -243,20 +245,24 @@ footer a {
 		margin-top: 6em;
 	}
 	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin: 0px 0px 0px 15px;
+		margin-left: 50%;
+		transform:translateX(-50%);
 		clear: left;
 	}
 	.artist-wrapper, .clock-wrapper, .money-wrapper {
 		margin: 0px 0px 0px 15px;
 		clear: left;
 		height: 300px;
+		margin-left: 50%;
+		transform:translateX(-50%);
 	}
 	.info {
 		height: 925px;
 		margin-bottom: 50px;
 	}
 	#fly, #up, #sketch {
-		margin-left: 15px;
+		margin-left: 50%;
+		transform:translateX(-50%);
 	}
 	.logo {
 		margin-left: 0px;
