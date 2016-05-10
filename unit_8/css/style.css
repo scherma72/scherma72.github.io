@@ -211,7 +211,7 @@ footer a {
 		margin-left: 20px;
 	}
 	header {
-	    height: 366px;
+	    height: 380px;
 	}
 	h1 {
 		font-size: 1.6em;
@@ -240,14 +240,14 @@ footer a {
 		top: 10px;
 	}
 	#button1 {	
-		margin-top: 12em;
+		margin-top: 6em;
 	}
 	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin: 0px 0px 0px 30px;
+		margin: 0px 0px 0px 15px;
 		clear: left;
 	}
 	.artist-wrapper, .clock-wrapper, .money-wrapper {
-		margin: 0px 0px 0px 30px;
+		margin: 0px 0px 0px 15px;
 		clear: left;
 		height: 300px;
 	}
@@ -256,7 +256,7 @@ footer a {
 		margin-bottom: 50px;
 	}
 	#fly, #up, #sketch {
-		margin-left: 50px;
+		margin-left: 15px;
 	}
 	.logo {
 		margin-left: 0px;
