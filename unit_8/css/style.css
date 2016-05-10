@@ -224,20 +224,27 @@ footer a {
 		transform:translateX(-50%);	
 	}
 	h5 {
-	    margin-left: 15px;
-	    padding-top: 17px;
+	    padding: 17px;
 		color: #FFF;
 		clear: left;	
 		text-align: center;
 		font-size: .8em;
+		margin-left: 50%;
+		transform:translateX(-50%);
 	}	
 	nav img{
 		height: 80px;
 	}
 	footer {
-		height: 50px;
+		height: 80px;
 		background-color: #000;
 	}
+	footer a {
+		padding-top: 0px;
+		padding-left: 15px;
+		margin-left: 10px;
+		float: left;
+ 	}
 	.headerText-wrapper {
 		top: 10px;
 	}
