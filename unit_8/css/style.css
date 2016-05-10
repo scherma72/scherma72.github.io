@@ -204,8 +204,11 @@ footer a {
 		height: 80px;
 	}
 	header p {
+		display: block;
 		font-size: .9em;
 		padding-top: 15px;
+		width: 300px;
+		margin-left: 20px;
 	}
 	header {
 	    height: 366px;
@@ -225,7 +228,7 @@ footer a {
 		clear: left;	
 		text-align: center;
 		font-size: .8em;
-	}
+	}	
 	nav img{
 		height: 80px;
 	}
@@ -237,7 +240,7 @@ footer a {
 		top: 10px;
 	}
 	#button1 {	
-		margin-top: 15em;
+		margin-top: 12em;
 	}
 	.step1-wrapper, .step2-wrapper, .step3-wrapper {
 		margin: 0px 0px 0px 30px;
