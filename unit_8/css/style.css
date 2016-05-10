@@ -240,11 +240,11 @@ footer a {
 		margin-top: 15em;
 	}
 	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin: 0px 0px 0px 52px;
+		margin: 0px 0px 0px 30px;
 		clear: left;
 	}
 	.artist-wrapper, .clock-wrapper, .money-wrapper {
-		margin: 0px 0px 0px 52px;
+		margin: 0px 0px 0px 30px;
 		clear: left;
 		height: 300px;
 	}
