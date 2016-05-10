@@ -222,7 +222,7 @@ footer a {
 	    margin-left: 15px;
 	    padding-top: 17px;
 		color: #FFF;
-		clear: left;
+		clear: left;	
 		text-align: center;
 		font-size: .8em;
 	}
@@ -255,7 +255,11 @@ footer a {
 	#fly, #up, #sketch {
 		margin-left: 50px;
 	}
-
+	.logo {
+		margin-left: 0px;
+		float: left;
+		padding-top: 0px;
+	}
 }	
 
 
