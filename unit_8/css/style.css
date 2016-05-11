@@ -202,6 +202,19 @@ footer a {
 		margin: 100px 0% 100px -4%;
 	}
 }
+@media screen and (max-width: 1008px) {
+	.step1-wrapper, .step2-wrapper, .step3-wrapper {
+		margin: 20px -3% 20px 1.5%;
+	}
+	.artist-wrapper, .clock-wrapper, .money-wrapper {
+		margin: 20px -3% 20px 1.5%;
+	}
+	.upload-wrapper {
+		margin: 100px 0% 100px -4%;
+		
+	}
+}
+	
 @media screen and (max-width: 500px) {
 	nav {
 		height: 80px;
