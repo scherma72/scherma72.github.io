@@ -112,10 +112,6 @@ footer a {
     color: inherit;
  	float: left;
 }
-section {
-	margin-left: 50%;
-	transform:translateX(-50%);
-}
 .info {
 	height: 350px;
 	background-color: rgb(128, 153, 153);
