@@ -112,7 +112,7 @@ footer a {
     color: inherit;
  	float: left;
 }
-.info, .steps, .upload-wrapper {
+section {
 	margin-left: 50%;
 	transform:translateX(-50%);
 }
