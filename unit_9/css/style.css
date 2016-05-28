@@ -48,7 +48,7 @@ h1 {
 header p {
 	margin-left: 30%;
 	display: block;
-	width: 750px;
+	width: 650px;
 	padding-top: 25px;
 	line-height: 125%;
 	text-align: center;
@@ -57,7 +57,6 @@ header p {
 	text-align: center;
 	color: #FFF;
 }
-
 button {
 	text-align: center;	
 	display: block;
