@@ -46,6 +46,9 @@ h1 {
 	padding-top: .5em;
 }
 header p {
+	margin-left: 30%;
+	display: block;
+	width: 660px;
 	padding-top: 25px;
 	line-height: 125%;
 	text-align: center;
@@ -204,18 +207,6 @@ footer a {
 	#button1 {	
 		margin-top: 6em;
 	}
-	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin-left: 50%;
-		transform:translateX(-50%);
-		clear: left;
-	}
-	.artist-wrapper, .clock-wrapper, .money-wrapper {
-		margin: 0px 0px 0px 15px;
-		clear: left;
-		height: 300px;
-		margin-left: 50%;
-		transform:translateX(-50%);
-	}
 	.info {
 		height: 925px;
 		margin-bottom: 50px;
@@ -224,7 +215,7 @@ footer a {
 		margin-left: 50%;
 		transform:translateX(-50%);
 	}
-	.logo {
+	#logo {
 		margin-left: 0px;
 		float: left;
 		padding-top: 10px;
