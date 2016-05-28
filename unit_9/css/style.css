@@ -47,7 +47,7 @@ h1 {
 	padding-top: .5em;
 }
 header p {
-	margin-left: 35%;
+	margin: auto;
 	display: block;
 	width: 650px;
 	padding-top: 25px;
@@ -140,9 +140,6 @@ footer a {
 	}
 	header {
 	height: 750px;
-	}
-	header p {
-	margin: auto;
 	}
 	button {
 		margin-left: 38%;
