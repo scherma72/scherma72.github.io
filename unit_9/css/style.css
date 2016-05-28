@@ -31,6 +31,10 @@ header {
     background-repeat: no-repeat;
     text-decoration: none;
 }
+header h1 {
+	display: block;
+	margin-left: 43%;
+}
 header p {
 	padding-top: 25px;
 	line-height: 125%;
@@ -54,7 +58,7 @@ button {
 	border-radius: 5px;
 	padding: 10px;	
 }
-h1 {
+h1 { 
 	font-family: 'Pacifico', cursive;
 	font-size: 6em;
 	line-height: 140%;
@@ -105,7 +109,8 @@ footer a {
 #logo {
 	display: block;
 	float: left;
-	padding-top: 0
+	padding-top: 0px;
+	padding-left: 20px;
 }
 #button1 {	
 	margin-top: 25em;
