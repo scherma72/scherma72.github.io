@@ -213,7 +213,7 @@ footer a {
 		width: 335px;
 		font-size: 1em;
 		background-color: #000;
-		float: left;
+		margin: auto;
 		padding-bottom: 5px;
 	}	
 	footer {
