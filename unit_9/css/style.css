@@ -187,7 +187,7 @@ footer a {
 		height: 80px;
 	}
 	#logo {
-		margin-left: 0px;
+		margin-left: 20px;
 		float: left;
 		padding-top: 10px;
 		padding-bottom: 10px;
@@ -195,8 +195,8 @@ footer a {
 	nav a {
 		display: block;
 		float: left;
-/*		padding-right: 20px;
-*/	}
+		padding-right: 20px;
+	}
 }
 @media screen and (max-width: 500px) {
 	header p {
