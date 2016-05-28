@@ -201,9 +201,10 @@ footer a {
 @media screen and (max-width: 500px) {
 	header p {
 		display: block;
-		font-size: .9em;
-		padding-top: 15px;
+		font-size: .7em;
+		padding-top: 235px;
 		width: 300px;
+		color: #000;
 	}
 	header {
 		height: 230px;
@@ -226,7 +227,7 @@ footer a {
 		float: left;
 	}
 	#button1 {	
-		margin-top: 6em;
+		margin-top: 1em;
 	}
 	#fly, #up, #sketch {
 		margin-left: 50%;
