@@ -40,7 +40,6 @@ header p {
 	text-align: center;
 	color: #FFF;
 }
-
 button {
 	text-align: center;	
 	display: block;
@@ -77,19 +76,6 @@ h3 {
 	color: #000;
 	clear: left;
 }
-h4 {
-	text-align: center;
-	font-family: 'Pacifico', cursive;
-	font-size: 2em;	
-	padding-bottom: 10px;
-}
-h5 {
-    margin-left: 33%;
-    padding-top: 17px;
-	font-family: 'Open Sans', sans-serif;
-	color: #FFF;
-	float: left;
-}
 p {
 	text-align: center;
 	font-family: 'Open Sans', sans-serif; 
@@ -100,7 +86,6 @@ p {
 	color: #000;
 }
 script { 
-	display : block;
 	border-radius: 5px;
 	padding: 10px;
 	float: left;		
@@ -116,14 +101,10 @@ footer a {
     color: inherit;
  	float: left;
 }
-.info {
-	height: 350px;
-	background-color: rgb(128, 153, 153);
-}
-.logo {
-	margin-left: 20px;
+#logo {
+	display: block;
 	float: left;
-	padding-top: 0px;
+	padding-top: 0;
 }
 #button1 {	
 	margin-top: 25em;
@@ -133,38 +114,12 @@ footer a {
 	background-color: rgba(153, 102, 102, 0.7);
 	margin-top: 15px;
 }
-.artist-wrapper, .clock-wrapper, .money-wrapper {
-	display: block;
-	width: 300px;
-	height: 350px;
-	margin: 20px 6% 20px 7.5%;
-	padding: 20px;
-	float: left;	
-}
 #artist, #clock, #money {
 	padding-left: 95px;
 }
-.step1-wrapper, .step2-wrapper, .step3-wrapper {
-	display: block;
-	width: 300px;
-	height: 350px;
-	margin: 20px 6% 20px 7.5%;
-	padding: 20px;
-	float: left;
-}
 #step1, #step2, #step3 {
 	padding-left: 80px;
-}
-.upload-wrapper {
-	clear: left;
-	margin: 100px 0% 100px 15%;
-}
-.headerText-wrapper {
-	position: absolute;
-	top: 30px;
-	margin: auto;
-	left: 0;
-	right: 0;
+
 }
 @media screen and (max-width: 1668px) {
 	h1 {
@@ -184,27 +139,8 @@ footer a {
 	}
 	#button1 {	
 		margin-top: 17em;
-	}
-	.upload-wrapper {
-		margin: 100px 0% 100px 5%;
-	}
-	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin: 20px 2% 20px 7.5%;
-	}
-	.artist-wrapper, .clock-wrapper, .money-wrapper {
-		margin: 20px 2% 20px 7.5%;
-	}	
 }
 @media screen and (max-width: 1260px) {
-	.step1-wrapper, .step2-wrapper, .step3-wrapper {
-		margin: 20px 2% 20px 1.5%;
-	}
-	.artist-wrapper, .clock-wrapper, .money-wrapper {
-		margin: 20px 2% 20px 1.5%;
-	}
-	.upload-wrapper {
-		margin: 100px 0% 100px -4%;
-	}
 }
 @media screen and (max-width: 500px) {
 	nav {
