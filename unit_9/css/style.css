@@ -132,42 +132,72 @@ footer a {
 }
 @media screen and (max-width: 1668px) {
 	h1 {
-	font-size: 3em;
+		font-size: 3em;
 	}
 	h3 {
-	font-size: 2em;
+		font-size: 2em;
 	}
 	header {
-	height: 750px;
+		height: 750px;
 	}
 	#button1 {	
-	margin-top: 17em;
+		margin-top: 18em;
 }
 @media screen and (max-width: 780px) {
 	h1 {
-	font-size: 2.5em;
+		font-size: 2.5em;
 	}
 	header p {
-	font-size: 1.1em;
-	width: 477px;
-	padding-top: 20px;
+		font-size: 1.1em;
+		width: 477px;
+		padding-top: 20px;
 	}
 	h3 {
-	font-size: 2em;
+		font-size: 2em;
 	}
 	header {
-	height: 750px;
+		height: 750px;
+	}
+	#button1 {	
+		margin-top: 19.5em;
 	}
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 663px) {
+	h1 {
+		padding-top: .15em;
+		width: 400px;
+	}
+	#button1 {	
+		margin-top: 12em;
+	}
+	header {
+		height: 500px;
+	}
+	header p {
+		padding-top: 15	px;
+	}
+	button {
+		font-size: 1em;	
+		width: 190px;
+		margin: auto;
+	}
+}
+@media screen and (max-width: 560px) {
 	nav {
 		height: 80px;
+	}
+	#logo {
+		margin-left: 0px;
+		float: left;
+		padding-top: 10px;
 	}
 	nav a {
 		display: block;
 		float: left;
 		padding-right: 20px;
 	}
+}
+@media screen and (max-width: 500px) {
 	header p {
 		display: block;
 		font-size: .9em;
@@ -175,15 +205,11 @@ footer a {
 		width: 250px;
 	}
 	header {
-	    height: 380px;
+		height: 380px;
 	}
 	h1 {
+		width: 454px;
 		font-size: 1.6em;
-	}
-	button {
-		font-size: 1em;	
-		width: 190px;
-		margin: auto;
 	}	
 	footer {
 		height: 80px;
@@ -194,24 +220,12 @@ footer a {
 		padding-left: 5px;
 		margin-left: 5px;
 		float: left;
- 	}
-	.headerText-wrapper {
-		top: 10px;
 	}
 	#button1 {	
 		margin-top: 6em;
 	}
-	.info {
-		height: 925px;
-		margin-bottom: 50px;
-	}
 	#fly, #up, #sketch {
 		margin-left: 50%;
 		transform: translateX(-50%);
-	}
-	#logo {
-		margin-left: 0px;
-		float: left;
-		padding-top: 10px;
 	}
 }
