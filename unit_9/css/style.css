@@ -184,7 +184,7 @@ footer a {
 }
 @media screen and (max-width: 560px) {
 	nav {
-		height: 80px;
+		height: 70px;
 	}
 	#logo {
 		margin-left: -15px;
@@ -208,9 +208,12 @@ footer a {
 	header {
 		height: 230px;
 	}
-	h1 {
-		width: 300px;
-		font-size: 1.6em;
+	header h1 {
+		width: 400px;
+		font-size: 1.2em;
+		background-color: #000;
+		float: left;
+		padding-bottom: 5px;
 	}	
 	footer {
 		height: 80px;
