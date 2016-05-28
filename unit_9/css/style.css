@@ -34,7 +34,8 @@ header {
 header h1 {
 	clear: both;
 	display: block;
-	margin-left: 5%;
+	/*margin-left: 5%;*/
+	margin: auto;
 	text-align: center;
 }
 h1 { 
@@ -141,8 +142,7 @@ footer a {
 	height: 750px;
 	}
 	header p {
-	font-size: 1.5em;
-	width: 630px;
+	margin: auto;
 	}
 	button {
 		margin-left: 38%;
