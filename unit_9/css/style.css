@@ -34,8 +34,9 @@ header {
 header h1 {
 	clear: both;
 	display: block;
-	margin-left: 5%;
+/*	margin-left: 5%;*/
 	text-align: center;
+	transform: translateX(-50%);
 }
 h1 { 
 	font-family: 'Pacifico', cursive;
