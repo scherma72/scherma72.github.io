@@ -32,8 +32,18 @@ header {
     text-decoration: none;
 }
 header h1 {
+	clear: both;
 	display: block;
-	margin-left: 43%;
+	margin-left: 5%;
+	text-align: center;
+}
+h1 { 
+	font-family: 'Pacifico', cursive;
+	font-size: 6em;
+	line-height: 140%;
+	letter-spacing: 2px;
+	color: #FFF;
+	padding-top: .5em;
 }
 header p {
 	padding-top: 25px;
@@ -57,14 +67,6 @@ button {
 	width: 300px;
 	border-radius: 5px;
 	padding: 10px;	
-}
-h1 { 
-	font-family: 'Pacifico', cursive;
-	font-size: 6em;
-	line-height: 140%;
-	letter-spacing: 2px;
-	text-align: center;
-	color: #FFF;
 }
 h2 {
 	font-family: 'Pacifico', cursive;
