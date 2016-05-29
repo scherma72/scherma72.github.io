@@ -70,9 +70,20 @@ button {
 	padding: 10px;	
 }
 .info{
+	height: 350px;
 	background-color: rgb(128, 153, 153);
 }
-
+#info1, #info2, #info3 {
+	display: block;
+	width: 300px;
+	margin: 20px 8% 20px 9%;
+	padding: 20px;
+	float: left;
+}
+section img {
+	margin-left: 50%;
+	transform:translateX(-50%);
+}
 h2 {
 	font-family: 'Pacifico', cursive;
 	font-size: 1.8em;
