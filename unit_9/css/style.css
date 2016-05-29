@@ -69,9 +69,10 @@ button {
 	border-radius: 5px;
 	padding: 10px;	
 }
-section .info{
+.info{
 	background-color: rgb(128, 153, 153);
 }
+
 h2 {
 	font-family: 'Pacifico', cursive;
 	font-size: 1.8em;
