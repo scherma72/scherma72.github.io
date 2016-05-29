@@ -69,11 +69,23 @@ button {
 	border-radius: 5px;
 	padding: 10px;	
 }
-.info{
+.info {
 	height: 350px;
 	background-color: rgb(128, 153, 153);
 }
 #info1, #info2, #info3 {
+	display: block;
+	width: 300px;
+	margin: 20px 8% 20px 9%;
+	padding: 20px;
+	float: left;
+}
+.steps {
+	margin-top: 40px;
+	height: 350px;
+	background-color: #FFF;
+}
+#step1, #step2, #step3 {
 	display: block;
 	width: 300px;
 	margin: 20px 8% 20px 9%;
@@ -92,21 +104,23 @@ h2 {
 	text-align: center;
 }
 h3 {
-	padding: 50 0 50 0;
 	font-family: 'Pacifico', cursive;
 	font-size: 3em;
 	text-align: center;
 	color: #000;
-	clear: left;
+}
+.info p{
+	color: #C4DBD7;
 }
 p {
+	padding-top: 10px;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif; 
 	font-style: thin;
 	line-height: 150%;
 	font-size: .8em;
 	text-align: center;
-	color: #000;
+	color: #7A756E;
 }
 script { 
 	border-radius: 5px;
