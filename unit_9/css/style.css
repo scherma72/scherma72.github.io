@@ -69,6 +69,9 @@ button {
 	border-radius: 5px;
 	padding: 10px;	
 }
+section .info{
+	background-color: rgb(128, 153, 153);
+}
 h2 {
 	font-family: 'Pacifico', cursive;
 	font-size: 1.8em;
@@ -122,9 +125,6 @@ footer a {
 #button2 {
 	background-color: rgba(153, 102, 102, 0.7);
 	margin-top: 15px;
-}
-#artist, #clock, #money {
-	padding-left: 95px;
 }
 #step1, #step2, #step3 {
 	padding-left: 80px;
