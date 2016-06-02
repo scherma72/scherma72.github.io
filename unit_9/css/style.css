@@ -109,7 +109,7 @@ h3 {
 	text-align: center;
 	color: #000;
 }
-.info p{
+.info p {
 	color: #C4DBD7;
 }
 p {
@@ -121,11 +121,6 @@ p {
 	font-size: .8em;
 	text-align: center;
 	color: #7A756E;
-}
-script { 
-	border-radius: 5px;
-	padding: 10px;
-	float: left;		
 }
 footer {
 	height: 50px;
@@ -254,9 +249,5 @@ footer a {
 	}
 	#button1 {	
 		margin-top: 1em;
-	}
-	#fly, #up, #sketch {
-		margin-left: 50%;
-		transform: translateX(-50%);
 	}
 }
