@@ -69,28 +69,10 @@ button {
 	border-radius: 5px;
 	padding: 10px;	
 }
-.info {
-	height: 350px;
-	background-color: rgb(128, 153, 153);
-}
-#info1, #info2, #info3 {
-	display: block;
-	width: 300px;
-	margin: 20px 8% 20px 9%;
-	padding: 20px;
-	float: left;
-}
-.steps {
-	margin-top: 40px;
-	height: 350px;
-	background-color: #FFF;
-}
-#step1, #step2, #step3 {
-	display: block;
-	width: 300px;
-	margin: 20px 8% 20px 9%;
-	padding: 20px;
-	float: left;
+button a{
+	text-decoration: none;
+	color: #FFF;
+	color: inherit;	
 }
 section img {
 	margin-left: 50%;
@@ -126,12 +108,19 @@ footer {
 	height: 50px;
 	background-color: #000;
 }
+
 footer a {
-	text-decoration: none;
+	display: block;
 	padding-top: 11px;
 	margin-left: 10px;
-    color: inherit;
- 	float: left;
+	float: left;
+}
+footer p {
+	clear: left; 
+	padding: 10px;
+}
+#behance {
+	padding-left: 473px;
 }
 #logo {
 	display: block;
@@ -149,7 +138,29 @@ footer a {
 }
 #step1, #step2, #step3 {
 	padding-left: 80px;
-
+}
+.info {
+	height: 350px;
+	background-color: rgb(128, 153, 153);
+}
+#info1, #info2, #info3 {
+	display: block;
+	width: 300px;
+	margin: 20px 8% 20px 9%;
+	padding: 20px;
+	float: left;
+}
+.steps {
+	margin-top: 40px;
+	height: 350px;
+	background-color: #FFF;
+}
+#step1, #step2, #step3 {
+	display: block;
+	width: 300px;
+	margin: 20px 8% 20px 9%;
+	padding: 20px;
+	float: left;
 }
 @media screen and (max-width: 1668px) {
 	h1 {
@@ -163,6 +174,66 @@ footer a {
 	}
 	#button1 {	
 		margin-top: 18em;
+	}
+	#info1, #info2, #info3 {
+		margin: 20px 2% 20px 7.5%;
+	}
+	#step1, #step2, #step3 {
+		margin: 20px 2% 20px 7.5%;
+	}
+}
+@media screen and (max-width: 1260px) {
+	#info1, #info2, #info3 {
+		margin: 20px 2% 20px 1.5%;
+	}
+	#step1, #step2, #step3 {
+		margin: 20px 2% 20px 1.5%;
+	}
+	#behance {
+		padding-left: 375px;
+	}
+}
+@media screen and (max-width: 1006px) {
+	#info1, #info2, #info3 {
+		margin: 20px 2% 20px 0.5%;
+	}
+	#step1, #step2, #step3 {
+		margin: 20px 2% 20px 0.5%;
+	}
+}
+@media screen and (max-width: 973px) {
+	#info1, #info2, #info3 {
+		margin: 20px -2% 20px -0.5%;
+	}
+	#step1, #step2, #step3 {
+		margin: 20px -2% 20px -0.5%;
+	}
+}
+@media screen and (max-width: 842px) {
+	#info1, #info2 {
+		margin: 0px -2% 0px -2%;
+	}
+	.info {
+	height: 500px;
+	}
+	#info3 {
+		margin-top: 0px;
+		clear: left;
+		margin-left: 50%;
+		transform:translateX(-50%);
+	}
+	#step1, #step2 {
+		margin: 0px -2% 0px -2%;
+	}
+	#step3 {
+		margin-top: 0px;
+		clear: left;
+		margin-left: 50%;
+		transform:translateX(-50%);
+	}
+	#behance {
+		padding-left: 183px;
+	}
 }
 @media screen and (max-width: 780px) {
 	h1 {
@@ -213,6 +284,23 @@ footer a {
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
+	#info1, #info2, #info3 {
+		margin-top: none;
+		margin-left: 50%;
+		transform:translateX(-50%);
+	}
+	#step1, #step2, #step3 {
+		margin-top: none;
+		margin-left: 50%;
+		transform:translateX(-50%);
+	}
+		.info {
+	height: 740px;
+	}
+	#behance {
+		padding-left: 50px;
+	}
+}
 	nav a {
 		display: block;
 		float: left;
