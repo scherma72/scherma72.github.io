@@ -14,7 +14,7 @@ nav a {
 	color: #000;
 	font-size: 1em;
 	display: block;
-    padding-top: 15px;
+	padding-top: 15px;
 	float: right;
 }	
 nav a:hover {
@@ -310,6 +310,9 @@ footer p {
 	}
 }
 @media screen and (max-width: 500px) {
+	.info {
+		margin-top: 100px;
+	}
 	header p {
 		display: block;
 		font-size: .7em;
