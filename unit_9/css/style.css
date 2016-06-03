@@ -181,6 +181,9 @@ footer p {
 	#step1, #step2, #step3 {
 		margin: 20px 2% 20px 7.5%;
 	}
+	#behance {
+	padding-left: 646px;
+	}
 }
 @media screen and (max-width: 1260px) {
 	#info1, #info2, #info3 {
