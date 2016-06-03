@@ -311,7 +311,7 @@ footer p {
 }
 @media screen and (max-width: 500px) {
 	.info {
-		margin-top: 100px;
+		margin-top: 300px;
 	}
 	header p {
 		display: block;
