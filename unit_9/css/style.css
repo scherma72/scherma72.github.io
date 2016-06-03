@@ -333,8 +333,8 @@ footer p {
 	}
 	footer a {
 		padding-top: 10px;
-		padding-left: 5px;
-		margin-left: 5px;
+		padding-left: 0px;
+		margin-left: 0px;
 		float: left;
 	}
 	#button1 {	
