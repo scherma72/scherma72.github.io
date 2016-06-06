@@ -162,6 +162,11 @@ footer p {
 	padding: 20px;
 	float: left;
 }
+@media screen and (max-width: 1738px) {
+	#behance {
+	padding-left: 695px;
+	}
+}
 @media screen and (max-width: 1668px) {
 	h1 {
 		font-size: 3em;
